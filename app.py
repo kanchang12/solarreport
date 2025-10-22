@@ -227,6 +227,7 @@ def health_check():
         'google': '✓' if GOOGLE_API_KEY else '✗',
         'timestamp': datetime.now().isoformat()
     })
+os.makedirs('temp', exist_ok=True)
 
 if __name__ == '__main__':
     os.makedirs('temp', exist_ok=True)
