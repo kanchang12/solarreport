@@ -6,3 +6,9 @@ matplotlib
 pandas
 python-dotenv
 Pillow
+Flask
+python-dotenv
+requests
+reportlab
+matplotlib
+openai
