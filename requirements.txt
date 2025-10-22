@@ -1,0 +1,8 @@
+Flask
+requests
+geopy
+reportlab
+matplotlib
+pandas
+python-dotenv
+Pillow
