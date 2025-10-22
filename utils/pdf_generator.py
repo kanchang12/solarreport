@@ -46,7 +46,7 @@ class PDFReportGenerator:
         title_text = (
             f"<font size=28 fontName='Helvetica-Bold' color='{SOLAR_BLUE.rgb()}'>"
             f"Solar Analysis for {user_data['name']}"
-            f"</font><br/></br></br>"
+            f"</font><br/><br/><br/>"
             f"<font size=14 fontName='Helvetica' color='{DARK_GRAY.rgb()}'>"
             f"{user_data['address']}"
             f"</font>"
